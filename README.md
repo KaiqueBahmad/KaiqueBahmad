@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @KaiqueBahmad
-- 👀 I’m interested in webdesign and IA.
-- 🌱 I’m currently learning HTML, JavaScript (express.js actually) and CSS.
 - 📫 You can reach me in:
     - 📷 Instagram: @kaiquebahmad
     - ✉️ Email: kaique.bahmadt@gmail.com
